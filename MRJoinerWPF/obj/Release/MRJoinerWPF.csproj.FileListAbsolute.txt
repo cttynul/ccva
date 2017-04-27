@@ -1,0 +1,14 @@
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\bin\Release\MRJoinerWPF.exe.config
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\bin\Release\MRJoinerWPF.exe
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\bin\Release\MRJoinerWPF.pdb
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\MRJoinerWPF.csprojResolveAssemblyReference.cache
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\View\MainWindow.g.cs
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\App.g.cs
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\MRJoinerWPF_MarkupCompile.cache
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\MRJoinerWPF_MarkupCompile.lref
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\View\MainWindow.baml
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\MRJoinerWPF.g.resources
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\MRJoinerWPF.Properties.Resources.resources
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\MRJoinerWPF.csproj.GenerateResource.Cache
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\MRJoinerWPF.exe
+D:\MrJoiner\MRJoinerWPF\MRJoinerWPF\obj\Release\MRJoinerWPF.pdb
