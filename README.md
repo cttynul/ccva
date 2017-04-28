@@ -12,7 +12,7 @@ An installed version of WinRar.
 ccva is software that came to my mind watching mr robot series. It allows you to hide more files into another one (.mp3 , .jpg, .pdf, .exe tested) with the possibility of crypt it.
 From the original ccva we added:
 * More Encrypting Methods
-* automated the encrypt and decrypt system using WinRar
+* Automated the encrypt and decrypt system using WinRar
 * Design Patterns: Strategy and MVP
 * WPF User Interface
 
