@@ -23,3 +23,5 @@ p.s. i am NOT responsible for any damages or data loss. If you will contact me
 
 ### THANKS 
 -Thanks to [cttynul](https://github.com/cttynul) and [BurningHam](https://github.com/BurningHAM18) for the idea of the software <3
+
+** Copyright (c) 2016, 2017 BurningHAM18, cttynul **
