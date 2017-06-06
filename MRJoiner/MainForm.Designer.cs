@@ -62,6 +62,7 @@
             this.encrypt = new System.Windows.Forms.TabPage();
             this.decrypt = new System.Windows.Forms.TabPage();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nuovoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -76,7 +77,6 @@
             this.checkForUpdatesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.aboutDevelopersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.decryptbox.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -370,12 +370,12 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(223, 277);
+            this.linkLabel1.Location = new System.Drawing.Point(207, 295);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(254, 13);
+            this.linkLabel1.Size = new System.Drawing.Size(266, 13);
             this.linkLabel1.TabIndex = 17;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "Brought you by BurningHam18 and cttynul with love.";
+            this.linkLabel1.Text = "Brought to you by BurningHam18 and cttynul with love.";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // textBoxOpen
@@ -493,6 +493,16 @@
             this.panel2.Size = new System.Drawing.Size(479, 317);
             this.panel2.TabIndex = 24;
             // 
+            // linkLabel2
+            // 
+            this.linkLabel2.AutoSize = true;
+            this.linkLabel2.Location = new System.Drawing.Point(223, 277);
+            this.linkLabel2.Name = "linkLabel2";
+            this.linkLabel2.Size = new System.Drawing.Size(254, 13);
+            this.linkLabel2.TabIndex = 22;
+            this.linkLabel2.TabStop = true;
+            this.linkLabel2.Text = "Brought you by BurningHam18 and cttynul with love.";
+            // 
             // menuStrip1
             // 
             this.menuStrip1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
@@ -590,29 +600,19 @@
             // checkForUpdatesToolStripMenuItem
             // 
             this.checkForUpdatesToolStripMenuItem.Name = "checkForUpdatesToolStripMenuItem";
-            this.checkForUpdatesToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
+            this.checkForUpdatesToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
             this.checkForUpdatesToolStripMenuItem.Text = "Check for updates";
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(167, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(169, 6);
             // 
             // aboutDevelopersToolStripMenuItem
             // 
             this.aboutDevelopersToolStripMenuItem.Name = "aboutDevelopersToolStripMenuItem";
             this.aboutDevelopersToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
             this.aboutDevelopersToolStripMenuItem.Text = "About and License";
-            // 
-            // linkLabel2
-            // 
-            this.linkLabel2.AutoSize = true;
-            this.linkLabel2.Location = new System.Drawing.Point(223, 277);
-            this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(254, 13);
-            this.linkLabel2.TabIndex = 22;
-            this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "Brought you by BurningHam18 and cttynul with love.";
             // 
             // MainForm
             // 
