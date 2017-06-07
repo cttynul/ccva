@@ -23,4 +23,4 @@ p.s. i am NOT responsible for any damages or data loss. If you will contact me
 * [Fabbrei](https://github.com/Fabbrei)
 * [TheLillo](https://github.com/TheLillo)
 
-** Copyright (c) 2016, 2017 [BurningHam](https://github.com/BurningHAM18) [cttynul](https://github.com/cttynul) **
+** Copyright (c) 2016, 2017 [BurningHam](https://github.com/BurningHAM18), [cttynul](https://github.com/cttynul) **
